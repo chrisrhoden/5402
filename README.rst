@@ -1,4 +1,18 @@
-=====================
+====================================
+1811 Dictionary of the Vulgar Tongue - a Project GITenberg book
+====================================
+
+title
+  1811 Dictionary of the Vulgar Tongue
+author
+  Grose, Francis, 1731-1791 
+language
+  en 
+subject
+  English language -- Slang -- Dictionaries, PE
+bookid
+  5402 
+
 Welcome to GITenberg!
 =====================
 This is a git repository of Project Gutenberg’s archives. For more information on working with git, please see this howto file. (linky)
