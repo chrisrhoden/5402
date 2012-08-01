@@ -2,16 +2,15 @@
 1811 Dictionary of the Vulgar Tongue - a Project GITenberg book
 ====================================
 
-title
-  1811 Dictionary of the Vulgar Tongue
-author
-  Grose, Francis, 1731-1791 
-language
-  en 
-subject
-  English language -- Slang -- Dictionaries, PE
-bookid
-  5402 
+**title:** 1811 Dictionary of the Vulgar Tongue
+
+**author:** Grose, Francis, 1731-1791 
+
+**subject:**  English language -- Slang -- Dictionaries, PE
+
+**language:** en 
+
+**bookid:**  5402 
 
 Welcome to GITenberg!
 =====================
