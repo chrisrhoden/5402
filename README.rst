@@ -1,6 +1,11 @@
 ====================================
-1811 Dictionary of the Vulgar Tongue - a Project GITenberg book
+1811 Dictionary of the Vulgar Tongue 
 ====================================
+
+a Project GITenberg book
+========================
+This is a git repository of Project Gutenberg’s archives. For more information on working with git, please see this howto file. (linky)
+
 
 **title:** 1811 Dictionary of the Vulgar Tongue
 
@@ -12,9 +17,7 @@
 
 **bookid:**  5402 
 
-Welcome to GITenberg!
-=====================
-This is a git repository of Project Gutenberg’s archives. For more information on working with git, please see this howto file. (linky)
+
 
 Found an error?
 ===============
